@@ -12,5 +12,5 @@ This contains two files -
 2. Titanic Data set
 
 ## Disclaimer
-This is a original work and copying from it will lead to disobeying Udacity's honor code.
+This is an original work and copying from it will lead to disobeying Udacity's honor code.
 Use this repository only as a guide for your own original work.
