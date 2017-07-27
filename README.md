@@ -8,8 +8,8 @@ automatically displays the ipynb file in a clean format.
 
 ## Files
 This contains two files - 
-1. Titanic Data Analysis
-2. Titanic Data set
+1. Titanic Data Analysis.ipynb : This is a jupyter notebook where the analysis is done.
+2. titanic-data.csv : This is the dataset which is analyzed.
 
 ## Disclaimer
 This is an original work and copying from it will lead to disobeying Udacity's honor code.
