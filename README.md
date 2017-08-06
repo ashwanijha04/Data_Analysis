@@ -1,4 +1,4 @@
-# Data_Analysis
+# Analysis of the titanic Dataset
 This repository contains the titanic data set and the notebook.
 The entire analysis is done in the notebook.
 
