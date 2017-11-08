@@ -13,6 +13,12 @@ For viewing in mobile phone, you need to `Request Desktop Site`. This is very ea
 Go to options->Request Desktop site
 After you are in desktop mode, open the ipynb file to view it.
 
+## Requirements to Run notebook on the local Machine
+
+1. Install Jupyter from here[http://jupyter.readthedocs.io/en/latest/install.html]
+2. Open a terminal and type 'jupyter notebook'. This will start the kernel and open a browser.
+3. Navigate to your ipynb file and start working.
+
 ## Files
 This contains two files - 
 1. Titanic Data Analysis.ipynb : This is a jupyter notebook where the analysis is done.
