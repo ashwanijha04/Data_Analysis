@@ -15,7 +15,7 @@ After you are in desktop mode, open the ipynb file to view it.
 
 ## Requirements to Run notebook on the local Machine
 
-1. Install Jupyter from here[http://jupyter.readthedocs.io/en/latest/install.html]
+1. Install Jupyter from [here](http://jupyter.readthedocs.io/en/latest/install.html)
 2. Open a terminal and type 'jupyter notebook'. This will start the kernel and open a browser.
 3. Navigate to your ipynb file and start working.
 
